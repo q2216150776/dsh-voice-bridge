@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+bridge.log
+crash.log
+status.txt
+base.txt
+bridge.pid
+last_folder.txt
+apps.json
+aliases.json
+.selftest-tmp/
