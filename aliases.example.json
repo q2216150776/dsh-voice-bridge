@@ -1,0 +1,8 @@
+{
+  "_说明": "名字 → 路径。打开成功一次会自动写入；也可以照这个格式手写。匹配时后缀优先。",
+  "视频": "D:\\Videos",
+  "下载": "C:\\Users\\<你>\\Downloads",
+  "图片": "D:\\Pictures",
+  "语音桥": "D:\\tools\\dsh-voice-bridge",
+  "addons": "E:\\SteamLibrary\\steamapps\\common\\Left 4 Dead 2\\left4dead2\\addons"
+}
